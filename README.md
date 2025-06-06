@@ -15,8 +15,8 @@
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/Eureka-API/DiscordBot
-cd DiscordBot
+git clone https://github.com/Eureka-API/DiscordClient
+cd DiscordClient
 ```
 
 2. **Install dependencies**'
